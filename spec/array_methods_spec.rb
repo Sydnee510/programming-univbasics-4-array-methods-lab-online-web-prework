@@ -1,7 +1,7 @@
 require 'spec_helper'
 
 describe "#using_include" do 
-  it "takes in argument of an array and an element and returns true if the array includes that element, false if it does not." do 
+  it "takes in arguments of an array and an element and returns true if the array includes that element, false if it does not." do 
     array = ["wow", "I", "am", "really","learning", "arrays!"]
     element1 = "wow"
     element2 = "Tardis"
