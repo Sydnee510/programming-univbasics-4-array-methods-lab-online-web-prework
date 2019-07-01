@@ -1,7 +1,7 @@
 def using_include(array, element)
 array = ["wow", "I", "am", "really", "learning", "arrays!"]
     array.inculde?("wow")
-    array.indlude?
+    array.indlude?("Tardis")
 end
 
 def using_sort(array)
